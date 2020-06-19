@@ -50,5 +50,11 @@ namespace DeskBooker.Core.Processor
             Assert.Equal("request", exception.ParamName);
 
         }
+
+        [Fact]
+        public void NewRequirement()
+        {
+
+        }
     }
 }
